@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
-title                    : "Zhipeng Zhang"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Zhipeng Zhang"
-description              : &description "Ph.D Candidate in NLPR, CASIA"
-url                      : https://JudasDie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JudasDie/Comparison"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhipeng Zhang"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Ph.D Condidate in NLPR, CASIA. Computer Vision."
-  location         : "Beijing"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=7Ws0QHYAAAAJ&hl=en"
-  email            : "zhangzhipeng2017@ia.ac.cn"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JudasDie"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0479-332X"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
