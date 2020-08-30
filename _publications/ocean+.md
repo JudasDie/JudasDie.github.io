@@ -3,7 +3,7 @@ title: "Towards Accurate Pixel-wise Object Tracking by Attention Retrieval"
 collection: publications
 permalink: /publication/Ocean+
 excerpt: 'A fast and strong framework for video object tracking and segmentation.'
-date: 2020-08
+date: 2020-08-08
 venue: 'Arxiv'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
