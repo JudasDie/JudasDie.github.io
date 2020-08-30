@@ -6,6 +6,7 @@ excerpt: 'A fast and strong framework for video object tracking and segmentation
 date: 2020-08-08
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2008.02745'
+
 citation: '@article{Ocean+,
 	title={Towards Accurate Pixel-wise Object Tracking by Attention Retrieval},
 	author={Zhang, Zhipeng and Li, Bing and Hu, Weiming and Peng, Houwen},
@@ -20,4 +21,3 @@ citation: '@article{Ocean+,
     - The runner-up of both VOT2020-ST and VOT2020-RT. 
     - Its variants take the 2nd/3rd/5th places in VOT2020-RT. 
 
-[![TA2.png](https://i.postimg.cc/s2KcDxdz/TA2.png)](https://postimg.cc/d7kd5qVN)
