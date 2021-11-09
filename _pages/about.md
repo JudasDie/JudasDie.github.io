@@ -15,7 +15,9 @@ I am a Ph.D candidate working on computer vision and deep learning at NLPR, CASI
 **Biography**: Zhipeng is a Ph.D candidate working on computer vision and deep learning at [Institute of automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) as of 2017. Before that he received the bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. He worked as an intern in [Microsoft Research Asia](https://www.msra.cn/) in 2019.10-2020.6. His research interest includes video object tracking, segmentation and detection, neural architecture search, etc.
 
 **News**
-- **07/2021** - [AutoMatch]() "Learn to Match: Automatic Matching NetworkDesign for Visual Tracking" has been accepted by ICCV2021! Preparing to release.
+- **11/2021** - [Code](https://github.com/JudasDie/SOTS) for AutoMatch has been released.
+- **09/2021** - [LSCGB: Robust Texture-aware Computer-generated Image Forensic: Benchmark and  Algorithm](https://ieeexplore.ieee.org/document/9559870/) has been accepted by IEEE TIP.
+- **07/2021** - [AutoMatch](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf) "Learn to Match: Automatic Matching NetworkDesign for Visual Tracking" has been accepted by ICCV2021! Preparing to release.
 - **04/2021** - [SiamMOT](https://arxiv.org/abs/2104.09441) "One More Check: Making “Fake Background” Be Tracked Again" has been released! A pretty simple but strong SOTA method for multi-object tracking (MOT).
 - **03/2021** - [NLP+Tracking](https://sites.google.com/view/langtrackbenchmark/) "Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark" has been accepted by CVPR2021!
 - **12/2020** - [NocalSiam](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Nocal-Siam:%20Refining%20Visual%20Features%20and%20Response%20with%20Advanced%20Non-local%20Blocks%20for%20Real-time%20Siamese%20Tracking) paper for single-object tracking (SOT) has been accepted by IEEE Trans. on Image Processing(TIP)!
