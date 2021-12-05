@@ -15,6 +15,7 @@ I am a Ph.D candidate working on computer vision and deep learning at NLPR, CASI
 **Biography**: Zhipeng is a Ph.D candidate working on computer vision and deep learning at [Institute of automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) as of 2017. Before that he received the bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. He worked as an intern in [Microsoft Research Asia](https://www.msra.cn/) in 2019.10-2020.6. His research interest includes video object tracking, segmentation and detection, neural architecture search, etc.
 
 **News**
+- **12/2021** - [OMC/CSTrackV2:One More Check: Making" Fake Background" Be Tracked Again](https://arxiv.org/pdf/2104.09441.pdf) has been accepted by AAAI2022. 
 - **11/2021** - [Code](https://github.com/JudasDie/SOTS) for AutoMatch has been released.
 - **09/2021** - [LSCGB: Robust Texture-aware Computer-generated Image Forensic: Benchmark and  Algorithm](https://ieeexplore.ieee.org/document/9559870/) has been accepted by IEEE TIP.
 - **07/2021** - [AutoMatch](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf) "Learn to Match: Automatic Matching NetworkDesign for Visual Tracking" has been accepted by ICCV2021! Preparing to release.
