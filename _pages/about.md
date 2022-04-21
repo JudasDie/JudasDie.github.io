@@ -15,7 +15,8 @@ I am a Ph.D candidate working on computer vision and deep learning at NLPR, CASI
 **Biography**: Zhipeng is a Ph.D candidate working on computer vision and deep learning at [Institute of automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) as of 2017. Before that he received the bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. He worked as an intern in [Microsoft Research Asia](https://www.msra.cn/) in 2019.10-2020.6. His research interest includes video object tracking, segmentation and detection, neural architecture search, etc.
 
 **News**
-- **03/2022** - [CSTrack](https://arxiv.org/pdf/2010.12138.pdf) are accepted by IEEE TIP.
+- **04/2022** - [CNNInMo/TransInMo](https://arxiv.org/abs/2201.02526) is accepted by IJCAI2022 as **Long Oral Presentation**.
+- **03/2022** - [CSTrack](https://pubmed.ncbi.nlm.nih.gov/35412982/) is accepted by IEEE TIP.
 - **01/2022** - [InBN: Learning Target-aware Representation for Visual Tracking via Informative Interactions](https://arxiv.org/abs/2201.02526) is avaiable on Arxiv.
 - **12/2021** - [OMC/CSTrackV2:One More Check: Making" Fake Background" Be Tracked Again](https://arxiv.org/pdf/2104.09441.pdf) has been accepted by AAAI2022. 
 - **11/2021** - [Code](https://github.com/JudasDie/SOTS) for AutoMatch has been released.
@@ -31,7 +32,7 @@ I am a Ph.D candidate working on computer vision and deep learning at NLPR, CASI
 - **08/2020** - [Ocean+](https://arxiv.org/abs/2008.02745) is released on arxiv. A simple yet strong method for VOTS task.
 - **07/2020** - [Ocean](https://arxiv.org/abs/2006.10721) is accepted by ECCV2020. [Code](https://github.com/researchmm/TracKit) containing Pytorch and TensorRT versions is available.
 - **08/2019** - I achieve the runner-up in VOT2019 challenges (RGBT track). Practical collaborator of RGBD track (winner) and LT track (runner-up).
-- **03/2019** - [SiamDW](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf) is accepted by CVPR2019 as an Oral. [Code](https://github.com/researchmm/TracKit) is available.
+- **03/2019** - [SiamDW](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deeper_and_Wider_Siamese_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf) is accepted by CVPR2019 as an **Oral**. [Code](https://github.com/researchmm/TracKit) is available.
 
 
 
