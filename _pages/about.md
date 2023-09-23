@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate working on computer vision and deep learning at NLPR, CASIA. My current research interest includes video object tracking, segmentation and detection, neural architecture search, etc.
+I earned my Ph.D. degree from NLPR,CASIA in 2022. My current research interests encompass a range of topics, including video object tracking, monocular and multi-view 3D object detection, as well as end-to-end autonomous driving.
 
 **Email:** zhangzhipeng2017@ia.ac.cn <br/>
 
-**Biography**: Zhipeng is a Ph.D candidate working on computer vision and deep learning at [Institute of automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) as of 2017. Before that he received the bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. He worked as an intern in [Microsoft Research Asia](https://www.msra.cn/) in 2019.10-2020.6. His research interest includes video object tracking, segmentation and detection, neural architecture search, etc.
+**Biography**: Zhipeng received Ph.D degree from [Institute of automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) as of 2017. Before that he received the bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. He worked as an intern in [Microsoft Research Asia](https://www.msra.cn/) in 2019.10-2020.6. He now works as a senior researcher at DiDi Voyager & KargoBOT.
 
 **News**
+- **09/2023** [VisEvent](https://arxiv.org/abs/2108.05015) is finally accepted by IEEE TCYB.
+- **09/2023** [BEVDist](https://arxiv.org/pdf/2211.08398.pdf) for distillating vision-based BEV object detection methods is accepted as **Oral** in BMVC2023.
+- **03/2023** - [AUNet](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf) that designed for deepfake detection is accepted by CVPR2023.
 - **09/2022** - [VLT](https://arxiv.org/abs/2207.01076) and [SwinTrack](https://openreview.net/forum?id=9h3KsOVXhLZ) are accepted by NIPS2022.
 - **04/2022** - [CNNInMo/TransInMo](https://arxiv.org/abs/2201.02526) is accepted by IJCAI2022 as **Long Oral Presentation**.
 - **03/2022** - [CSTrack](https://pubmed.ncbi.nlm.nih.gov/35412982/) is accepted by IEEE TIP.
