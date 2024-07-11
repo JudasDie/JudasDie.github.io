@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. degree from NLPR,CASIA in 2022. My current research interests encompass a range of topics, including video object tracking, monocular and multi-view 3D object detection, as well as end-to-end autonomous driving.
+I earned my Ph.D. degree from NLPR, CASIA in 2022. My current research interests encompass a range of topics, including video object tracking, monocular and multi-view 3D object detection, as well as end-to-end autonomous driving.
 
 **Email:** zhangzhipeng2017@ia.ac.cn <br/>
 
 **Biography**: Zhipeng received Ph.D degree from [Institute of automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) as of 2017. Before that he received the bachelor's degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2017. He worked as an intern in [Microsoft Research Asia](https://www.msra.cn/) in 2019.10-2020.6. He now works as a senior researcher at DiDi Voyager & KargoBOT.
 
 **News**
+- **07/2024** [CyclicRefiner](https://arxiv.org/abs/2407.03240) for Bird's Eye View (BEV) object detection in autonomous driving is accepted by IJCV.
+- **06/2024** [VLTv2](https://ieeexplore.ieee.org/abstract/document/10547435/) for vision-language based single object tracking is accepted by TPAMI.
+- **06/2024** [LoRAT](https://arxiv.org/pdf/2403.05231) for adapting LORA to single object tracking model is accepted by ECCV2024.
+- **03/2024** [A-Teacher](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_A-Teacher_Asymmetric_Network_for_3D_Semi-Supervised_Object_Detection_CVPR_2024_paper.pdf) for semi-supervised object detection is accepted by CVPR2024.
 - **09/2023** [VisEvent](https://arxiv.org/abs/2108.05015) is finally accepted by IEEE TCYB.
 - **09/2023** [BEVDist](https://arxiv.org/pdf/2211.08398.pdf) for distillating vision-based BEV object detection methods is accepted as **Oral** in BMVC2023.
 - **03/2023** - [AUNet](https://openaccess.thecvf.com/content/CVPR2023/papers/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.pdf) that designed for deepfake detection is accepted by CVPR2023.
